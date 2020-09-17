@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="popular">Most Popular</string>
+    <string name="rating">Highest Rated</string>
+    <string name="no_rating">No rating available</string>
+    <string name="titleExtra">title</string>
+    <string name="release_extra">release_date</string>
+    <string name="posterExtra">movie_poster</string>
+    <string name="ratingExtra">vote_average</string>
+    <string name="plotExtra">plot</string>
+    <string name="movie_title_example">Chappie</string>
+    <string name="mark_as_favorite">MARK AS FAVORITE</string>
+    <string name="missingData">N/A</string>
+    <string name="trailersHeader">Trailers:</string>
+    <string name="movieTrailerContentDescription">Movie Trailer</string>
+    <string name="trailerTitleString">\"Trailer \"</string>
+    <string name="movieOverviewExample">Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Chappie he is a robot.</string>
+    <string name="showFavorites">Favorites</string>
+    <string name="movieIdExtra">id</string>
+    <string name="movieTitleExtra">title</string>
+    <string name="posterPathExtra">posterPath</string>
+    <string name="trailerVideoType">Trailer</string>
+    <string name="detailNavTitle">Details</string>
+    <string name="channel_id">CUSTOM_CHANNEL</string>
+    <string name="channel_name">CHANNEL_NAME</string>
+</resources>
